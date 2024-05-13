@@ -1,0 +1,83 @@
+{
+    "data": [
+      {
+        "name": "Product A",
+        "creatorname": "John Doe",
+        "followers": 5000,
+        "reach": 10000,
+        "views": 20000,
+        "engagement": "High",
+        "last_bid": "$1000",
+        "mode_of_payment": "PayPal",
+        "cost": "$1500",
+        "approval_status": "Approved",
+        "image": "https://example.com/path/to/image_A.png"
+      },
+      {
+        "name": "Product B",
+        "creatorname": "Jane Smith",
+        "followers": 8000,
+        "reach": 15000,
+        "views": 30000,
+        "engagement": "Medium",
+        "last_bid": "$800",
+        "mode_of_payment": "Bank Transfer",
+        "cost": "$1200",
+        "approval_status": "Pending",
+        "image": "https://example.com/path/to/image_B.png"
+      },
+      {
+        "name": "Product C",
+        "creatorname": "Alex Johnson",
+        "followers": 10000,
+        "reach": 20000,
+        "views": 40000,
+        "engagement": "Low",
+        "last_bid": "$600",
+        "mode_of_payment": "Credit Card",
+        "cost": "$1000",
+        "approval_status": "Rejected",
+        "image": "https://example.com/path/to/image_C.png"
+      },
+      {
+        "name": "Product D",
+        "creatorname": "Emily Brown",
+        "followers": 12000,
+        "reach": 25000,
+        "views": 50000,
+        "engagement": "High",
+        "last_bid": "$1500",
+        "mode_of_payment": "PayPal",
+        "cost": "$2000",
+        "approval_status": "Approved",
+        "image": "https://example.com/path/to/image_D.png"
+      },
+      {
+        "name": "Product E",
+        "creatorname": "Michael Wilson",
+        "followers": 15000,
+        "reach": 30000,
+        "views": 60000,
+        "engagement": "Medium",
+        "last_bid": "$1200",
+        "mode_of_payment": "Bank Transfer",
+        "cost": "$1800",
+        "approval_status": "Approved",
+        "image": "https://example.com/path/to/image_E.png"
+      },
+      {
+        "name": "Product F",
+        "creatorname": "Sophia Lee",
+        "followers": 20000,
+        "reach": 35000,
+        "views": 70000,
+        "engagement": "High",
+        "last_bid": "$2000",
+        "mode_of_payment": "Credit Card",
+        "cost": "$2500",
+        "approval_status": "Pending",
+        "image": "https://example.com/path/to/image_F.png"
+      }
+    ]
+  }
+  
